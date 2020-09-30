@@ -1,5 +1,5 @@
 ########################################################################
-TWX: Abstraction Layer Over Telegram's Bot API and MTProto Chat Potocols
+TWX: Abstraction Layer Over Telegram's Bot API and MTProto Chat Potocols and many more 
 ########################################################################
 
 :contributions: Please join https://github.com/datamachine/twx
